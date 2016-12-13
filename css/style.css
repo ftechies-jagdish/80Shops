@@ -35,7 +35,7 @@ body{
 
 .sidebar{
 	margin: 10px;
-	min-height: 380px;
+	min-height: 500px;
 	background-color:#ffffff;
 	text-align: left; 
 	list-style: none;	
@@ -43,7 +43,7 @@ body{
 
 .imgcontainer{
 	margin: 10px;
-	min-height: 190px;
+	min-height: 350px;
 	background-color:#fc5d5d;
 	text-align: center; 	
 	font-size: large;
@@ -52,15 +52,17 @@ body{
 
 .imgthumbnail{
 	margin: 10px;
-	min-height: 190px;
+	min-height: 210px;
 	background-color:#ffffff;
 	text-align: left; 	
 	font-size: large;	
 }
 .imgdetails{
-	margin: 10px;
-	min-height: 190px;
+	margin: 5px;
+	min-height: 210px;
 	background-color:#ffffff;
-	text-align: center; 	
-	font-size: large;		
+    color: black;
+    	 	
+			
 }
+
