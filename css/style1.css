@@ -1,0 +1,93 @@
+body{
+	background: #dcdde2;
+}
+
+
+.redbox{
+	background: #ffffff;
+	height: 510px;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	text-align: left;
+	color:black;
+}
+.greenbox{
+
+	background:#ffa3a3;
+	height: 250px;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	
+}
+.bluebox{
+	background: blue;
+	height: 250px;
+	margin-bottom: 20px;
+	
+}
+.orangebox{
+
+	background: orange;
+	height: 250px;
+	margin-bottom: 20px;
+}
+.thumbnail{
+background: #e03618;
+height:300px;
+margin-bottom: 20px;
+}
+.holeseller{
+	background: #bb18e0;
+   height:300px;
+   margin-bottom: 20px;;
+
+}
+.footer{
+	background:black;
+   height:100px;
+   
+}
+.dropdown{
+	float:left;
+}
+
+.navbar{
+
+	background: #ffffff;
+	height: 50px;
+	margin-bottom: 1px;
+}
+.gridbar{
+	background: #ffffff;
+height: 50px;
+}
+.payment{
+	background: #ffffff;
+height: 50px;
+ 
+}
+.business{
+	background: #ffffff;
+height: 50px;
+ 
+}
+.searchbox{
+	height: 50px;
+}
+.shoes{
+
+	text-align:center;
+	margin-top: 15px;
+}
+.text{
+
+	text-align:right;
+	margin-top: 15px;
+
+}
+.list {
+    color:black;
+    list-style: none;
+    padding-left:30px;
+    padding: 10px;
+}

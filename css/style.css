@@ -1,34 +1,28 @@
 body{
 	background: #dcdde2;
 }
-.mainheader{
+/*.mainheader{
 	min-height: 50px;
 	background-color:#ffffff;
 	text-align: right; 
 	list-style: none;	
 }
-
-/*.searchbar{
+*/
+.searchbar{
 	 
 	min-height: 50px;
 	background-color:#ffffff;
 	text-align: center; 	
 	
 }
-*/
-.searchbox{
-	margin: 1px;
-	min-height: 50px;
-	background-color:#ffffff;
-	text-align: center; 	
-	/*text-decoration: none;*/		
-}
-.search-query{
+
+
+/*.search-query{
 	height: 50px;
-	/*width: 100px;*/
+	width: 100px;
 	background-color :#f6f3f7;
 }
-
+*/
 
 .membership{
 	margin: 1px;
@@ -38,39 +32,35 @@ body{
 	 	
 }
 
-.payment{
-	margin: 1px;
-	min-height: 50px;
+
+.sidebar{
+	margin: 10px;
+	min-height: 380px;
 	background-color:#ffffff;
-	text-align: center; 	
+	text-align: left; 
+	list-style: none;	
 }
 
 .imgcontainer{
 	margin: 10px;
-	min-height: 290px;
+	min-height: 190px;
 	background-color:#fc5d5d;
 	text-align: center; 	
 	font-size: large;
 }
 
+
 .imgthumbnail{
 	margin: 10px;
-	min-height: 290px;
+	min-height: 190px;
 	background-color:#ffffff;
 	text-align: left; 	
 	font-size: large;	
 }
 .imgdetails{
 	margin: 10px;
-	min-height: 250px;
+	min-height: 190px;
 	background-color:#ffffff;
 	text-align: center; 	
 	font-size: large;		
-}
-.sidebar{
-	margin: 10px;
-	min-height: 600px;
-	background-color:#ffffff;
-	text-align: left; 
-	list-style: none;	
 }
