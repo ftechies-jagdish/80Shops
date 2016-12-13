@@ -1,0 +1,76 @@
+body{
+	background: #dcdde2;
+}
+.mainheader{
+	min-height: 50px;
+	background-color:#ffffff;
+	text-align: right; 
+	list-style: none;	
+}
+
+/*.searchbar{
+	 
+	min-height: 50px;
+	background-color:#ffffff;
+	text-align: center; 	
+	
+}
+*/
+.searchbox{
+	margin: 1px;
+	min-height: 50px;
+	background-color:#ffffff;
+	text-align: center; 	
+	/*text-decoration: none;*/		
+}
+.search-query{
+	height: 50px;
+	/*width: 100px;*/
+	background-color :#f6f3f7;
+}
+
+
+.membership{
+	margin: 1px;
+	margin-left: 1px;
+	min-height: 50px;
+	background-color:#ffffff;
+	 	
+}
+
+.payment{
+	margin: 1px;
+	min-height: 50px;
+	background-color:#ffffff;
+	text-align: center; 	
+}
+
+.imgcontainer{
+	margin: 10px;
+	min-height: 290px;
+	background-color:#fc5d5d;
+	text-align: center; 	
+	font-size: large;
+}
+
+.imgthumbnail{
+	margin: 10px;
+	min-height: 290px;
+	background-color:#ffffff;
+	text-align: left; 	
+	font-size: large;	
+}
+.imgdetails{
+	margin: 10px;
+	min-height: 250px;
+	background-color:#ffffff;
+	text-align: center; 	
+	font-size: large;		
+}
+.sidebar{
+	margin: 10px;
+	min-height: 600px;
+	background-color:#ffffff;
+	text-align: left; 
+	list-style: none;	
+}
