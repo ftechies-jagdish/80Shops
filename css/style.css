@@ -4,7 +4,7 @@ body{
 
 
 .sidebar{
-	margin: 10px;
+	margin-top: 10px;
 	min-height: 500px;
 	background-color:#ffffff;
 	text-align: left; 
@@ -12,8 +12,8 @@ body{
 }
 
 .imgcontainer{
-	margin: 10px;
-	min-height: 300px;
+	margin-top: 10px;
+	min-height: 330px;
 	background-color:#fc5d5d;
 	text-align: center; 	
 	font-size: large;
@@ -22,22 +22,22 @@ body{
 
 			
 
-.jags{
-	margin: 10px;
+.imgdetailes{
+ 	margin: 10px;
 	text-align: left;
 	min-height: 300px;
 	background: #ffffff;
 	padding-top: 40px;
-
+	text-decoration: none;
 }
 
 .thumbnailone{
-	
-	text-align: center;
+	margin: 10px;
+	text-align: left;
 	min-height: 240px;
 	background: #ffffff;
-	margin-left: 30px;
-	margin-top: 30px;
+
+	
 }
 
 .searchbar{
@@ -47,4 +47,58 @@ body{
 	 text-align: center;
 	 padding-top: 10px;
 	 color: black;
+	 margin-top: 2px;
+}
+
+.setimg{
+	text-align: right;
+}
+
+.mainheader{
+	
+	min-height: 50px;
+	 background: #ffffff; 
+	 text-align: center;
+	 
+	 color: black;
+	
+}
+
+
+.btn {
+    
+    border-radius: 25px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    
+
+}
+ 
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+ 
+.btn-primary {
+    background:black;
+    color: #ffffff;
+}
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #33a6cc;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #007299;
+    box-shadow: none;
+}
+
+.shop{
+ float:left;
+ color: black;
+
+}
+.inpute-group{
+height: 50px;
+
 }
