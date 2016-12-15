@@ -1,36 +1,6 @@
 body{
 	background: #dcdde2;
 }
-/*.mainheader{
-	min-height: 50px;
-	background-color:#ffffff;
-	text-align: right; 
-	list-style: none;	
-}
-*/
-.searchbar{
-	 
-	min-height: 50px;
-	background-color:#ffffff;
-	text-align: center; 	
-	
-}
-
-
-/*.search-query{
-	height: 50px;
-	width: 100px;
-	background-color :#f6f3f7;
-}
-*/
-
-.membership{
-	margin: 1px;
-	margin-left: 1px;
-	min-height: 50px;
-	background-color:#ffffff;
-	 	
-}
 
 
 .sidebar{
@@ -38,31 +8,43 @@ body{
 	min-height: 500px;
 	background-color:#ffffff;
 	text-align: left; 
-	list-style: none;	
+	
 }
 
 .imgcontainer{
 	margin: 10px;
-	min-height: 350px;
+	min-height: 300px;
 	background-color:#fc5d5d;
 	text-align: center; 	
 	font-size: large;
 }
 
 
-.imgthumbnail{
-	margin: 10px;
-	min-height: 210px;
-	background-color:#ffffff;
-	text-align: left; 	
-	font-size: large;	
-}
-.imgdetails{
-	margin: 5px;
-	min-height: 210px;
-	background-color:#ffffff;
-    color: black;
-    	 	
 			
+
+.jags{
+	margin: 10px;
+	text-align: left;
+	min-height: 300px;
+	background: #ffffff;
+	padding-top: 40px;
+
 }
 
+.thumbnailone{
+	
+	text-align: center;
+	min-height: 240px;
+	background: #ffffff;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+.searchbar{
+	
+	min-height: 50px;
+	 background: #ffffff; 
+	 text-align: center;
+	 padding-top: 10px;
+	 color: black;
+}
